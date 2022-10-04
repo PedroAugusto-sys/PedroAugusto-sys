@@ -12,7 +12,7 @@
 - 🎓 Cursando bacharelado em Engenharia de Software em SENAI-FATESG
 - 🎮 Gaming, technology is my passion.
 - 🎶 WENN DU DA BIST
-- 💖 Strogonoff
+- 💖 Veni, vidi, vici
 
 
 ##
