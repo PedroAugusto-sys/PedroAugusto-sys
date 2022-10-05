@@ -32,9 +32,12 @@
   <a href="//dbeaver.io/"><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/256px-DBeaver_logo.svg.png?20210313151619" /> </a>
   <a href= "//slack.com"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" /> </a>
   <a href= "//spring.io"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /> </a>
-  <a href= "//www.linkedin.com/in/pedro-augusto-ssyss/"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> </a>
   
   
+
+## Contacts
+<div style="display: inline_block"><br>
+   <a href= "//www.linkedin.com/in/pedro-augusto-ssyss/"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />       </a>
   
   
    
