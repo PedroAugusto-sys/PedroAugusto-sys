@@ -6,7 +6,7 @@
 </a>
 
   
-- 🚀 Atualmente estou estudando [Java](//www.java.com/pt-BR/) ;
+- 🚀 Atualmente estou estudando [Java](//www.java.com/pt-BR/) e [C#](https://dotnet.microsoft.com/pt-br/languages/csharp);
 - 👁 Procuro me tornar um desenvolvedor FullStack
 - 📚 Autodidata
 - 🎓 Cursando bacharelado em Engenharia de Software em SENAI-FATESG
