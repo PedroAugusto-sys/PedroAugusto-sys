@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=_C5A5F1&height=200&section=header&text=Welcome!&fontSize=50&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=C5A5F1&height=200&section=header&text=Welcome!&fontSize=50&fontColor=ffffff)
 
 <div align="center">
-  <img src="https://readme-typing-svg.vercel.app/?lines=Engenheiro+de+Software;Desenvolvedor+FullStack;Apaixonado+por+Tecnologia&center=true&size=30&color=3a1272&width=600&height=50">
+  <img src="https://readme-typing-svg.vercel.app/?lines=Engenheiro+de+Software;Desenvolvedor+FullStack;Apaixonado+por+Tecnologia&center=true&size=30&color=C5A5F1&width=600&height=50">
 </div>
 
 ---
@@ -23,6 +23,23 @@ Olá! Eu sou o **Pedro Augusto**! 💻
 - 💖 Veni, vidi, vici
 
 ---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <a href="https://github.com/PedroAugusto-sys">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroAugusto-sys&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=C5A5F1&icon_color=C5A5F1"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAugusto-sys&layout=compact&langs_count=8&theme=great-gatsby&hide_border=true&bg_color=0D1117&title_color=C5A5F1"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.demolab.com/?user=PedroAugusto-sys&theme=great-gatsby&hide_border=true&background=0D1117&ring=C5A5F1&fire=C5A5F1&currStreakLabel=C5A5F1" alt="GitHub Streak" height="180"/>
+</div>
+
+---
+
+## 🐍 Contribuições
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
@@ -109,4 +126,4 @@ Olá! Eu sou o **Pedro Augusto**! 💻
 
 ---
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=_C5A5F1&height=200&section=footer&text=Obrigado+por+visitar!&fontSize=50&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=C5A5F1&height=200&section=footer&text=Obrigado+por+visitar!&fontSize=50&fontColor=ffffff)
