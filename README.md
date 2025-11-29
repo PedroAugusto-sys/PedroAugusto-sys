@@ -14,7 +14,7 @@
 
 Olá! Eu sou o **Pedro Augusto**! 💻
 
-- 🚀 Atualmente estou estudando **Java** e **C#**
+- 🚀 Atualmente estou estudando **C#**
 - 👁 Transformando ideias em código e código em soluções inovadoras
 - 📚 **Autodidata** e sempre em busca de novos conhecimentos
 - 🎓 Formado em **Engenharia de Software** pela SENAI-FATESG
@@ -64,6 +64,8 @@ Olá! Eu sou o **Pedro Augusto**! 💻
   <img align="center" alt="Angular" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Bootstrap" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt=".NET" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
+  <img align="center" alt="Rocket" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg">
+  <img align="center" alt="Stomp" height="50" width="50" src="https://stomp-js.github.io/stomp-websocket/images/project-logo.png">
 </div>
 
 ### Ferramentas e Plataformas
@@ -72,7 +74,7 @@ Olá! Eu sou o **Pedro Augusto**! 💻
   <img align="center" alt="GitHub" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
   <img align="center" alt="Jira" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg">
   <img align="center" alt="Selenium" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg">
-  <img align="center" alt="Playwright" height="50" width="50" src="https://raw.githubusercontent.com/microsoft/playwright/main/docs/static/img/playwright-logo.svg">
+  <img align="center" alt="Playwright" height="50" width="50" src="https://playwright.dev/img/playwright-logo.svg">
   <img align="center" alt="DBeaver" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/256px-DBeaver_logo.svg.png?20210313151619">
   <img align="center" alt="Slack" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg">
   <img align="center" alt="VS Code" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
@@ -90,10 +92,13 @@ Olá! Eu sou o **Pedro Augusto**! 💻
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Rocket](https://img.shields.io/badge/Rocket-DC382D?style=for-the-badge&logo=rust&logoColor=white)
+![Stomp.js](https://img.shields.io/badge/Stomp.js-000000?style=for-the-badge&logo=javascript&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-45BA4B?style=for-the-badge&logo=playwright&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 </div>
