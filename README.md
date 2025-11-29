@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=_C5A5F1&height=200&section=header&text=Welcome!&fontSize=50&fontColor=ffffff)
 
 <div align="center">
-  <img src="https://readme-typing-svg.vercel.app/?lines=Engenheiro+de+Software;Desenvolvedor+FullStack;Apaixonado+por+Tecnologia&center=true&size=30&color=C5A5F1&width=600&height=50">
+  <img src="https://readme-typing-svg.vercel.app/?lines=Engenheiro+de+Software;Desenvolvedor+FullStack;Apaixonado+por+Tecnologia&center=true&size=30&color=3a1272&width=600&height=50">
 </div>
 
 ---
