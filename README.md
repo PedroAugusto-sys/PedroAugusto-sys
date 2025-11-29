@@ -34,7 +34,7 @@ Olá! Eu sou o **Pedro Augusto**! 💻
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=PedroAugusto-sys&theme=great-gatsby&hide_border=true&background=0D1117&ring=C5A5F1&fire=C5A5F1&currStreakLabel=C5A5F1" alt="GitHub Streak" height="180"/>
+  <img src="https://streak-stats.demolab.com/?user=PedroAugusto-sys&theme=great-gatsby&hide_border=true&background=0D1117&ring=C5A5F1&fire=C5A5F1&currStreakLabel=C5A5F1" alt="GitHub Streak" height="180"/>
 </div>
 
 ---
