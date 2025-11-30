@@ -14,7 +14,7 @@
 
 Olá! Eu sou o **Pedro Augusto**! 💻
 
-- 🚀 Atualmente estou estudando **Java** e **C#**
+- 🚀 Atualmente estou estudando **C#**
 - 👁 Transformando ideias em código e código em soluções inovadoras
 - 📚 **Autodidata** e sempre em busca de novos conhecimentos
 - 🎓 Formado em **Engenharia de Software** pela SENAI-FATESG
