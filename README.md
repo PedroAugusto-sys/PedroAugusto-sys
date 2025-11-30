@@ -14,7 +14,7 @@
 
 Olá! Eu sou o **Pedro Augusto**! 💻
 
-- 🚀 Atualmente estou estudando **C#**
+- 🚀 Atualmente estou estudando **Java** e **C#**
 - 👁 Transformando ideias em código e código em soluções inovadoras
 - 📚 **Autodidata** e sempre em busca de novos conhecimentos
 - 🎓 Formado em **Engenharia de Software** pela SENAI-FATESG
@@ -24,9 +24,24 @@ Olá! Eu sou o **Pedro Augusto**! 💻
 
 ---
 
+## 🚀 Projetos em Destaque
+
+<div align="center">
+  
+[🦆 **WeaDuck** - Sistema de Login](https://weaduck.netlify.app/login)
+
+</div>
+
+---
+
 ## 📊 Estatísticas do GitHub
 
-
+<div align="center">
+  <a href="https://github.com/PedroAugusto-sys">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroAugusto-sys&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=C5A5F1&icon_color=C5A5F1"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAugusto-sys&layout=compact&langs_count=8&theme=great-gatsby&hide_border=true&bg_color=0D1117&title_color=C5A5F1"/>
+  </a>
+</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=PedroAugusto-sys&theme=great-gatsby&hide_border=true&background=0D1117&ring=C5A5F1&fire=C5A5F1&currStreakLabel=C5A5F1" alt="GitHub Streak" height="180"/>
