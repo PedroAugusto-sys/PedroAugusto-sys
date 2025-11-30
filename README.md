@@ -74,8 +74,6 @@ Olá! Eu sou o **Pedro Augusto**! 💻
   <img align="center" alt="Angular" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Bootstrap" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt=".NET" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
-  <img align="center" alt="Rust" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg">
-  <img align="center" alt="Stomp" height="50" width="50" src="https://raw.githubusercontent.com/stomp-js/stompjs/main/assets/stomp-logo.png">
 </div>
 
 ### Ferramentas e Plataformas
