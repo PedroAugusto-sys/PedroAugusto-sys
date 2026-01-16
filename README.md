@@ -14,13 +14,10 @@
 
 Olá! Eu sou o **Pedro Augusto**! 💻
 
-- 🚀 Atualmente estou estudando **C#**
+- 🚀 Atualmente estou em busca de oportunidades
 - 👁 Transformando ideias em código e código em soluções inovadoras
 - 📚 **Autodidata** e sempre em busca de novos conhecimentos
 - 🎓 Formado em **Engenharia de Software** pela SENAI-FATESG
-- 🎮 Gaming e tecnologia são minhas paixões
-- 🎶 WENN DU DA BIST
-- 💖 Veni, vidi, vici
 
 ---
 
