@@ -141,17 +141,18 @@ const About = () => {
 
             <div className="animate-on-scroll space-y-4 text-gray-300 text-base sm:text-lg">
               <p>
-                Engenheiro de Software formado pela Fatesg (conclusão em 
-                2025) com sólida trajetória de 3 anos e 8 meses na Escolar 
-                Manager. Atuei como Analista de QA, desenvolvendo uma visão 
-                crítica sobre o produto e garantindo entregas de alta qualidade que 
-                resolvem problemas reais do usuário.
+                Engenheiro de Software formado pela Fatesg (conclusão em 2025) com
+                sólida trajetória de 3 anos e 8 meses na Escolar Manager. Atuei como
+                Suporte N1, N2 e N3 até o cargo de Engenheiro de Qualidade e
+                Automação. Neste caminho, fui desenvolvendo uma visão crítica sobre
+                o produto e garantindo entregas de alta qualidade que resolvem
+                problemas reais do usuário.
               </p>
               <p>
-                Possuo competências em C#, React.js e automação, com inglês fluente 
-                para atuação em times globais. Busco aplicar minha experiência em 
-                engenharia para escalar processos de testes e otimizar os ciclos de 
-                desenvolvimento.
+                Possuo competências em C#, React.js e automação no geral, com inglês
+                fluente para atuação em times globais. Busco aplicar minha
+                experiência em engenharia para escalar processos de testes,
+                otimizar os ciclos de desenvolvimento e de atendimento ao cliente.
               </p>
             </div>
 
