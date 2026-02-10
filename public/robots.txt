@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+# IMPORTANTE: Atualize a URL abaixo com seu domínio real antes do deploy
+# Exemplo: https://seu-site.netlify.app ou https://seudominio.com
+Sitemap: https://seudominio.com/sitemap.xml
