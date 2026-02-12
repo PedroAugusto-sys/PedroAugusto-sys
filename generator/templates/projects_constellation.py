@@ -185,6 +185,7 @@ def _build_project_card(i, proj, arm, color, card_width, card_x, theme):
     """Build a single project card."""
     card_cx = card_x + card_width / 2
     repo_name = proj["repo"].split("/")[-1] if "/" in proj["repo"] else proj["repo"]
+    display_name = proj.get("name") or repo_name
     desc = proj.get("description", "")
     # Wrap description to fit card width (approx chars)
     max_chars = int(card_width / 7.5)
@@ -253,7 +254,7 @@ def _build_project_card(i, proj, arm, color, card_width, card_x, theme):
     card_parts.append(
         f'    <text x="{card_cx}" y="111" fill="{theme["text_bright"]}" '
         f'font-size="14" font-weight="bold" font-family="sans-serif" '
-        f'text-anchor="middle">{esc(repo_name)}</text>'
+        f'text-anchor="middle">{esc(display_name)}</text>'
     )
 
     # Description lines (centered)

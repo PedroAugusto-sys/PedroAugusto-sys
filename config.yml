@@ -53,8 +53,9 @@ projects:
     arm: 0
     description: "Este perfil no GitHub com tema galáxia e minhas stacks."
   - repo: "PedroAugusto-sys/WeaDuck"
+    name: "eaduck (WeaDuck)"
     arm: 1
-    description: "WeaDuck — demonstração do projeto. Acesse em weaduck.netlify.app"
+    description: "Demonstração do projeto. Acesse em weaduck.netlify.app"
 
 # Tema com sua cor roxa (C5A5F1) do README anterior
 theme:
