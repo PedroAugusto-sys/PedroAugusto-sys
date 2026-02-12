@@ -355,6 +355,9 @@
     <circle cx="464.1" cy="86.5" r="4" fill="#C5A5F1" filter="url(#star-glow-0)">
       <animate attributeName="opacity" values="0.6;1;0.6" dur="4s" begin="0.0s" repeatCount="indefinite"/>
     </circle>
+    <circle cx="623.9" cy="202.4" r="4" fill="#00d4ff" filter="url(#star-glow-1)">
+      <animate attributeName="opacity" values="0.6;1;0.6" dur="4s" begin="0.8s" repeatCount="indefinite"/>
+    </circle>
 
   <!-- 10. Orbital rings -->
     <ellipse cx="425" cy="155" rx="55" ry="18" fill="none" stroke="#00d4ff" stroke-width="0.6" opacity="0.15" stroke-dasharray="4 6">
