@@ -1,0 +1,85 @@
+# Galaxy Profile — Pedro Augusto
+# Gera os SVGs do perfil em tema galáxia com suas stacks.
+
+username: PedroAugusto-sys
+
+profile:
+  name: "Pedro Augusto"
+  tagline: "Engenheiro de Software & Desenvolvedor Full Stack"
+  company: ""
+  location: "Brasil"
+  bio: |
+    Transformando ideias em código e código em soluções inovadoras.
+    Autodidata, formado em Engenharia de Software pela SENAI-FATESG.
+    Em busca de oportunidades e sempre aprendendo novas stacks.
+  philosophy: '"Apaixonado por resolver problemas complexos e criar soluções inovadoras."'
+
+social:
+  email: ""
+  linkedin: ""
+  website: "https://weaduck.netlify.app"
+
+# Três braços da galáxia = suas áreas de foco e stacks
+# Cores: synapse_cyan, dendrite_violet, axon_amber
+galaxy_arms:
+  - name: "Frontend"
+    color: "dendrite_violet"
+    items:
+      - "TypeScript"
+      - "JavaScript"
+      - "Angular"
+      - "Bootstrap"
+  - name: "Backend"
+    color: "synapse_cyan"
+    items:
+      - "Java"
+      - "Python"
+      - "C#"
+      - "Spring"
+      - ".NET"
+  - name: "Ferramentas & QA"
+    color: "axon_amber"
+    items:
+      - "Git"
+      - "GitHub"
+      - "Jira"
+      - "Selenium"
+      - "Playwright"
+      - "VS Code"
+
+# Projetos em destaque
+projects:
+  - repo: "PedroAugusto-sys/PedroAugusto-sys"
+    arm: 0
+    description: "Este perfil no GitHub com tema galáxia e minhas stacks."
+  - repo: "PedroAugusto-sys/WeaDuck"
+    arm: 1
+    description: "WeaDuck — demonstração do projeto. Acesse em weaduck.netlify.app"
+
+# Tema com sua cor roxa (C5A5F1) do README anterior
+theme:
+  void: "#080c14"
+  nebula: "#0f1623"
+  star_dust: "#1a2332"
+  synapse_cyan: "#00d4ff"
+  dendrite_violet: "#C5A5F1"
+  axon_amber: "#ffb020"
+  text_bright: "#f1f5f9"
+  text_dim: "#94a3b8"
+  text_faint: "#64748b"
+
+stats:
+  metrics:
+    - "commits"
+    - "stars"
+    - "prs"
+    - "issues"
+    - "repos"
+
+languages:
+  exclude:
+    - "HTML"
+    - "CSS"
+    - "Shell"
+    - "Makefile"
+  max_display: 8
