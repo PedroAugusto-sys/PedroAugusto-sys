@@ -1,6 +1,6 @@
 # Portfolio Pedro
 
-Portfolio pessoal construído com React, Three.js, GSAP e tecnologias de ponta.
+Portfolio pessoal construído com React, Three.js, GSAP e AGENTES DE IA, um pequeno treinamento para mim.
 
 ## 🚀 Tecnologias
 
