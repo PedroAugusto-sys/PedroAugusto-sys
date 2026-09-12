@@ -145,19 +145,19 @@ const Achievements = () => {
     {
       id: 1,
       title: 'Bacharel em Engenharia de Software',
-      description: 'Uma jornada transformadora que me preparou para criar soluções tecnológicas inovadoras. Durante toda a formação, desenvolvi habilidades técnicas sólidas em desenvolvimento de software, arquitetura de sistemas e gestão de projetos. Aprendi a transformar ideias em código, resolver problemas complexos e trabalhar em equipe para entregar produtos de alta qualidade. Esta formação não foi apenas sobre aprender tecnologias, mas sobre desenvolver uma mentalidade de engenharia que me permite enfrentar qualquer desafio com confiança e criatividade.',
+      description: 'Formação completa em desenvolvimento, arquitetura de sistemas e gestão de projetos. Aprendi a transformar ideias em código e a enfrentar desafios complexos com criatividade e mentalidade de engenharia.',
       year: '2025',
     },
     {
       id: 2,
       title: 'Promoção para Analista QA Sênior',
-      description: 'Promoção para Analista QA Sênior na Escolar Manager, assumindo responsabilidades estratégicas em projetos de automação e desenvolvimento de aplicações úteis para diversos setores da empresa. Este marco representa não apenas um reconhecimento do meu trabalho e dedicação, mas também uma oportunidade de impactar positivamente a qualidade dos produtos e processos organizacionais. A cada desafio superado, fortaleço minha paixão por criar soluções que fazem a diferença e demonstro que o crescimento profissional vem através da excelência, inovação e comprometimento constante.',
+      description: 'Promoção na Escolar Manager para cargo estratégico em automação e desenvolvimento. Reconhecimento por impacto positivo na qualidade dos produtos e processos, demonstrando crescimento através de excelência e inovação.',
       year: '2023',
     },
     {
       id: 3,
       title: 'Início da Carreira',
-      description: 'Início da jornada profissional como Suporte Técnico Nível 3, onde tive a oportunidade de desenvolver habilidades fundamentais que moldaram minha trajetória. Nesta posição, aprendi a criar scripts em SQL para otimizar processos e resolver problemas complexos, desenvolvi excelência no atendimento ao cliente com foco em soluções eficientes, e compreendi a importância de cada interação para o sucesso do negócio. Este foi o momento em que descobri minha paixão por tecnologia e aprendi que cada desafio é uma oportunidade de crescimento. O início pode ser humilde, mas é onde plantamos as sementes da excelência que nos levam a conquistas maiores.',
+      description: 'Início como Suporte Técnico Nível 3, desenvolvendo habilidades fundamentais em SQL, atendimento ao cliente e resolução de problemas. Momento em que descobri minha paixão por tecnologia e aprendi que cada desafio é uma oportunidade de crescimento.',
       year: '2022',
     },
   ]

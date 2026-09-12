@@ -351,6 +351,15 @@ const Hero = () => {
       <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
         <div className="grid md:grid-cols-2 gap-8 md:gap-12 items-center">
           <div className="space-y-4 md:space-y-6 order-2 md:order-1 relative z-20">
+            <div className="flex justify-center md:justify-start mb-3">
+              <span className="inline-flex items-center gap-2 px-3 py-1.5 bg-primary-500/10 border border-primary-500/20 text-primary-400 rounded-full text-sm font-medium">
+                <span className="relative flex h-2 w-2">
+                  <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-primary-400 opacity-75"></span>
+                  <span className="relative inline-flex rounded-full h-2 w-2 bg-primary-500"></span>
+                </span>
+                Disponível para oportunidades
+              </span>
+            </div>
             <h1
               ref={titleRef}
               className="text-3xl sm:text-4xl md:text-5xl lg:text-7xl font-bold text-white leading-tight"
@@ -375,8 +384,22 @@ const Hero = () => {
             </p>
             <div 
               ref={ctaRef} 
-              className="flex flex-col sm:flex-row gap-3 sm:gap-4 justify-center items-center relative z-30"
+              className="flex flex-col sm:flex-row gap-3 sm:gap-4 justify-center md:justify-start items-center relative z-30"
             >
+              <button
+                onClick={(e) => {
+                  e.preventDefault()
+                  e.stopPropagation()
+                  scrollToSection('contact')
+                }}
+                onTouchStart={(e) => {
+                  e.stopPropagation()
+                }}
+                className="w-full sm:w-auto px-6 sm:px-8 py-2.5 sm:py-3 bg-primary-500 text-white rounded-lg font-semibold hover:bg-primary-600 active:bg-primary-700 transition-all duration-200 transform hover:scale-105 active:scale-95 text-sm sm:text-base relative z-30 touch-manipulation shadow-lg shadow-primary-500/20"
+                style={{ WebkitTapHighlightColor: 'transparent' }}
+              >
+                Entrar em Contato
+              </button>
               <button
                 onClick={(e) => {
                   e.preventDefault()
@@ -386,24 +409,10 @@ const Hero = () => {
                 onTouchStart={(e) => {
                   e.stopPropagation()
                 }}
-                className="w-full sm:w-auto px-6 sm:px-8 py-2.5 sm:py-3 bg-primary-500 text-white rounded-lg font-semibold hover:bg-primary-600 active:bg-primary-700 transition-colors transform hover:scale-105 active:scale-95 text-sm sm:text-base relative z-30 touch-manipulation"
+                className="w-full sm:w-auto px-6 sm:px-8 py-2.5 sm:py-3 border-2 border-primary-500/50 text-primary-400 rounded-lg font-semibold hover:bg-primary-500/10 hover:border-primary-500 active:bg-primary-500/20 transition-all duration-200 text-sm sm:text-base relative z-30 touch-manipulation"
                 style={{ WebkitTapHighlightColor: 'transparent' }}
               >
                 Ver Projetos
-              </button>
-              <button
-                onClick={(e) => {
-                  e.preventDefault()
-                  e.stopPropagation()
-                  scrollToSection('about')
-                }}
-                onTouchStart={(e) => {
-                  e.stopPropagation()
-                }}
-                className="w-full sm:w-auto px-6 sm:px-8 py-2.5 sm:py-3 border-2 border-primary-500 text-primary-400 rounded-lg font-semibold hover:bg-primary-500/10 active:bg-primary-500/20 transition-colors text-sm sm:text-base relative z-30 touch-manipulation"
-                style={{ WebkitTapHighlightColor: 'transparent' }}
-              >
-                Sobre Mim
               </button>
             </div>
           </div>
