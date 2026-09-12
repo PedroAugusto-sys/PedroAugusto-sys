@@ -55,7 +55,7 @@ const projects = [
     id: 1,
     title: 'EaDuck',
     description:
-      'Plataforma educacional desenvolvida para modernizar a educação. Sistema completo de gestão de ensino a distância com funcionalidades de cadastro de usuários, salas de aula, tarefas, avaliações e notificações. Desenvolvido com foco em usabilidade, segurança e inovação.',
+      'Plataforma educacional desenvolvida para modernizar a educação. Sistema completo de gestão de ensino a distância com funcionalidades de cadastro de usuários, salas de aula, tarefas, avaliações e notificações. Nota: A demonstração requer login (acesso restrito).',
     technologies: ['Java', 'TypeScript', 'Spring', 'React', 'HTML', 'SCSS'],
     github: 'https://github.com/Usales/EaDuck',
     preview: 'https://weaduck.netlify.app/',
@@ -210,24 +210,52 @@ const Projects = () => {
           <h2 className="text-3xl sm:text-4xl md:text-5xl font-bold text-white mb-4">
             Meus <span className="text-primary-400">Projetos</span>
           </h2>
-          <p className="text-gray-400 text-base sm:text-lg">
+          <p className="text-gray-300 text-base sm:text-lg">
             Uma seleção dos meus trabalhos mais recentes
           </p>
         </div>
 
-        <div className="grid md:grid-cols-2 gap-8 mb-16 items-stretch">
-          {projects.map((project) => (
-            <div key={project.id} className="project-card h-full flex">
-              <ProjectCard
-                title={project.title}
-                description={project.description}
-                technologies={project.technologies}
-                github={project.github}
-                preview={project.preview}
-                image={project.image}
-              />
-            </div>
-          ))}
+        {/* Featured Projects */}
+        <div className="mb-16">
+          <h3 className="text-2xl font-bold text-white mb-8 flex items-center gap-2">
+            <span className="text-primary-400">★</span>
+            Projetos em Destaque
+          </h3>
+          <div className="grid md:grid-cols-2 gap-8 items-stretch">
+            {projects.filter(p => p.featured).map((project) => (
+              <div key={project.id} className="project-card h-full flex">
+                <ProjectCard
+                  title={project.title}
+                  description={project.description}
+                  technologies={project.technologies}
+                  github={project.github}
+                  preview={project.preview}
+                  image={project.image}
+                />
+              </div>
+            ))}
+          </div>
+        </div>
+
+        {/* Other Projects */}
+        <div>
+          <h3 className="text-2xl font-bold text-white mb-8">
+            Outros Projetos
+          </h3>
+          <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6 items-stretch">
+            {projects.filter(p => !p.featured).map((project) => (
+              <div key={project.id} className="project-card h-full flex">
+                <ProjectCard
+                  title={project.title}
+                  description={project.description}
+                  technologies={project.technologies}
+                  github={project.github}
+                  preview={project.preview}
+                  image={project.image}
+                />
+              </div>
+            ))}
+          </div>
         </div>
       </div>
     </section>
