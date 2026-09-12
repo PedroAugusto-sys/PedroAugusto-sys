@@ -3,7 +3,6 @@ interface ProjectCardProps {
   description: string
   image?: string
   technologies: string[]
-  link?: string
   github?: string
   preview?: string
 }
@@ -13,7 +12,6 @@ const ProjectCard = ({
   description,
   image,
   technologies,
-  link,
   github,
   preview,
 }: ProjectCardProps) => {
@@ -65,45 +63,28 @@ const ProjectCard = ({
             </span>
           ))}
         </div>
-        {(link || github || preview) && (
-          <div className="flex gap-4 flex-shrink-0 mt-auto">
-            {link && link !== '#' && (
-              <a
-                href={link}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-primary-400 font-medium text-sm hover:underline"
-              >
-                Ver Projeto →
-              </a>
-            )}
-            {link && link === '#' && (
-              <span className="text-gray-500 font-medium text-sm cursor-default">
-                Ver Projeto →
-              </span>
-            )}
-            {preview && (
-              <a
-                href={preview}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-primary-400 font-medium text-sm hover:underline"
-              >
-                Preview Web (clique em Entrar)
-              </a>
-            )}
-            {github && (
-              <a
-                href={github}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-gray-400 font-medium text-sm hover:underline"
-              >
-                GitHub
-              </a>
-            )}
-          </div>
-        )}
+        <div className="flex gap-3 flex-shrink-0 mt-auto">
+          {preview && (
+            <a
+              href={preview}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="flex-1 px-4 py-2 bg-primary-500 hover:bg-primary-600 text-white font-medium text-sm rounded-lg transition-colors text-center"
+            >
+              🚀 Demo
+            </a>
+          )}
+          {github && (
+            <a
+              href={github}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="flex-1 px-4 py-2 bg-gray-700 hover:bg-gray-600 text-white font-medium text-sm rounded-lg transition-colors text-center"
+            >
+              💻 Código
+            </a>
+          )}
+        </div>
       </div>
     </div>
   )

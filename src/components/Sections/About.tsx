@@ -84,45 +84,14 @@ const About = () => {
     }
   }, [hasIntersected, elementRef])
 
-  const skills = [
-    'Java',
-    'Python',
-    'C#',
-    'TypeScript',
-    'JavaScript',
-    'HTML',
-    'SCSS',
-    'React',
-    'React.js',
-    'Three.js',
-    'Node.js',
-    'Spring',
-    'Spring Boot',
-    'Angular',
-    'Bootstrap',
-    '.NET',
-    'GSAP',
-    'Tailwind CSS',
-    'Vite',
-    'FastAPI',
-    'Streamlit',
-    'JPA/Hibernate',
-    'ElectronJS',
-    'PostgreSQL',
-    'MongoDB',
-    'Pandas',
-    'Big Data',
-    'Git',
-    'GitHub',
-    'Jira',
-    'Selenium',
-    'Playwright',
-    'DBeaver',
-    'Slack',
-    'VS Code',
-    'Docker',
-    'Swagger',
-  ]
+  const skillsGroups = {
+    'Linguagens': ['Java', 'Python', 'C#', 'TypeScript', 'JavaScript'],
+    'Frontend': ['React', 'Angular', 'HTML', 'SCSS', 'Tailwind CSS', 'Bootstrap', 'Three.js', 'GSAP'],
+    'Backend': ['Spring Boot', 'Node.js', '.NET', 'FastAPI', 'JPA/Hibernate'],
+    'QA & Automação': ['Selenium', 'Playwright', 'Test Automation', 'CI/CD'],
+    'Dados': ['MongoDB', 'PostgreSQL', 'Pandas', 'Big Data', 'Streamlit', 'DBeaver'],
+    'DevOps & Ferramentas': ['Docker', 'Git', 'GitHub', 'Vite', 'Swagger', 'ElectronJS', 'Jira', 'Slack', 'VS Code'],
+  }
 
   return (
     <section
@@ -168,20 +137,27 @@ const About = () => {
             </div>
 
             {/* Skills */}
-            <div className="animate-on-scroll">
+            <div className="animate-on-scroll space-y-6">
               <h3 className="text-2xl font-bold text-white mb-4">
                 Tecnologias
               </h3>
-              <div className="flex flex-wrap gap-3">
-                {skills.map((skill) => (
-                  <span
-                    key={skill}
-                    className="px-4 py-2 bg-primary-500/20 text-primary-400 rounded-lg font-medium"
-                  >
-                    {skill}
-                  </span>
-                ))}
-              </div>
+              {Object.entries(skillsGroups).map(([category, skills]) => (
+                <div key={category}>
+                  <h4 className="text-primary-400 font-semibold mb-2 text-sm uppercase tracking-wide">
+                    {category}
+                  </h4>
+                  <div className="flex flex-wrap gap-2 mb-4">
+                    {skills.map((skill) => (
+                      <span
+                        key={skill}
+                        className="px-3 py-1.5 bg-primary-500/20 text-primary-300 rounded-lg font-medium text-sm"
+                      >
+                        {skill}
+                      </span>
+                    ))}
+                  </div>
+                </div>
+              ))}
             </div>
           </div>
 
