@@ -1,135 +1,148 @@
-<div align="center">
+# Pedro Augusto Santos Andrade
 
-# 👋 Olá! Eu sou Pedro Augusto
+**Junior QA Automation Engineer / SDET** • Goiânia, Brazil • Open to Remote & Contract Work
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=QA+Automation+Engineer+%7C+SDET;Full+Stack+Developer;Especialista+em+Testes+Automatizados)](https://git.io/typing-svg)
-
-**Desenvolvedor Full Stack com experiência em automação e engenharia de qualidade (QA/SDET)**
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=vercel&logoColor=white)](https://pedrodevx.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-augusto-ssyss)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedroaugusto.sys@gmail.com)
-
-</div>
+[![Portfolio](https://img.shields.io/badge/Portfolio-pedrodevx.netlify.app-06B6D4?style=flat-square)](https://pedrodevx.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pedro--augusto--ssyss-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/pedro-augusto-ssyss)
+[![Email](https://img.shields.io/badge/Email-pedroaugusto.sys%40gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:pedroaugusto.sys@gmail.com)
 
 ---
 
-## 🎯 Sobre Mim
+## About Me
 
-🔍 **Especialista em QA Automation** com foco em testes end-to-end, API e performance  
-💻 **Full Stack Developer** criando soluções escaláveis e de alta qualidade  
-🚀 Apaixonado por automação, CI/CD e boas práticas de desenvolvimento  
-🌱 Sempre aprendendo novas tecnologias e metodologias
+Junior QA Automation Engineer and SDET with hands-on experience in test automation frameworks, API testing, and CI/CD pipelines. Skilled in building robust test suites with high coverage and integrating them into continuous delivery workflows. Background in full-stack development and service desk operations, bringing a holistic view of software quality.
 
----
-
-## 🛠️ Stack Tecnológica
-
-### 🧪 QA & Automação
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-
-### 💻 Linguagens
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-
-### ⚙️ Backend
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🔧 DevOps & Ferramentas
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+Currently seeking remote or contract opportunities to apply modern QA automation practices and contribute to high-quality software delivery.
 
 ---
 
-## 📊 GitHub Stats
+## Technical Stack
 
-<div align="center">
+**QA Automation & Testing**  
+C# • Playwright • Cypress • Selenium • SpecFlow (BDD) • NUnit • xUnit • Postman • REST API Testing
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroAugusto-sys&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=06b6d4&icon_color=06b6d4&text_color=c9d1d9"/>
+**Programming & Frameworks**  
+JavaScript • TypeScript • React • .NET • SQL  
+_Academic experience:_ Java • Python
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAugusto-sys&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=06b6d4&text_color=c9d1d9"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PedroAugusto-sys&theme=tokyonight&hide_border=true&background=0D1117&ring=06B6D4&fire=06B6D4&currStreakLabel=06B6D4&sideNums=C9D1D9&currStreakNum=C9D1D9&sideLabels=C9D1D9)](https://git.io/streak-stats)
-
-</div>
+**Tools & Practices**  
+Git • CI/CD • Unit Testing • Integration Testing • End-to-End Testing • Test-Driven Development
 
 ---
 
-## 🚀 Projetos em Destaque
+## Professional Experience
 
-<div align="center">
+**QA Analyst**  
+_Escolar Manager_ • 2023 – 2026  
+Designed and executed automated test suites for a school management platform, collaborated with development teams on quality standards, and established testing best practices.
 
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=PedroAugusto-sys&repo=portfolio-pedro&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=06b6d4&icon_color=06b6d4&text_color=c9d1d9)](https://github.com/PedroAugusto-sys/portfolio-pedro)
-[![QA Automação](https://github-readme-stats.vercel.app/api/pin/?username=PedroAugusto-sys&repo=qa_automacao&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=06b6d4&icon_color=06b6d4&text_color=c9d1d9)](https://github.com/PedroAugusto-sys/qa_automacao)
-
-[![Ticket FlowZ](https://github-readme-stats.vercel.app/api/pin/?username=PedroAugusto-sys&repo=ticket-flowZ&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=06b6d4&icon_color=06b6d4&text_color=c9d1d9)](https://github.com/PedroAugusto-sys/ticket-flowZ)
-[![Gerador Relatório QA](https://github-readme-stats.vercel.app/api/pin/?username=PedroAugusto-sys&repo=geradorRelatorioAutomaticoQA&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=06b6d4&icon_color=06b6d4&text_color=c9d1d9)](https://github.com/PedroAugusto-sys/geradorRelatorioAutomaticoQA)
-
-</div>
-
-### 🔗 Outros Projetos
-
-- **[EaDuck](https://github.com/PedroAugusto-sys/Eaduck)** - Plataforma educacional
-- **[Sistema de Vendas](https://github.com/PedroAugusto-sys/sistema-venda-py)** - Sistema de gestão em Python
-- **[Crust Delivery](https://github.com/PedroAugusto-sys/Crust-Delivery)** - Sistema de delivery
-- **[Mantis Notificator](https://github.com/PedroAugusto-sys/mantis_notificator)** - Integração com Mantis Bug Tracker
+**IT Support / Service Desk Analyst**  
+_SmartHint by Magalu Cloud_  
+Delivered technical support, resolved escalated incidents, and contributed to system reliability monitoring.
 
 ---
 
-## 💼 Experiência
+## Education
 
-- 🎯 **QA Automation Engineer / SDET** - Especialização em frameworks de testes modernos
-- 💻 **Full Stack Development** - React, Spring Boot, Node.js, APIs RESTful
-- 🔄 **CI/CD** - Pipelines automatizados com GitHub Actions, Jenkins e Azure DevOps
-- 📊 **Performance Testing** - Análise e otimização de aplicações
-- 🐛 **Test Management** - Planejamento, execução e documentação de testes
+**Bachelor of Science in Software Engineering**  
+SENAI FATESG • Graduated 2025
 
 ---
 
-## 📫 Entre em Contato
+## Featured Projects
 
-<div align="center">
+**[taskflow](https://github.com/PedroAugusto-sys/taskflow)**  
+Full-stack task management application built with .NET and React. Includes comprehensive test coverage: unit tests, integration tests, and Playwright E2E tests with CI automation. Achieved 99% code coverage.
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-pedrodevx.netlify.app-06B6D4?style=for-the-badge)](https://pedrodevx.netlify.app/)
+**[qa_automacao](https://github.com/PedroAugusto-sys/qa_automacao)**  
+Electron-based automation hub featuring a SpecFlow/Playwright BDD framework. Demonstrates test organization, reporting, and reusable test patterns.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro_Augusto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-augusto-ssyss)
-[![GitHub](https://img.shields.io/badge/GitHub-PedroAugusto--sys-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PedroAugusto-sys)
-[![Email](https://img.shields.io/badge/Email-pedroaugusto.sys%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedroaugusto.sys@gmail.com)
+**[portfolio-pedro](https://pedrodevx.netlify.app/)**  
+Personal portfolio site showcasing projects and skills. Built with React and modern web technologies.
 
-</div>
+**[gf_art_prjct](https://github.com/PedroAugusto-sys/gf_art_prjct)**  
+Creative project exploring interactive web experiences.
 
 ---
 
-<div align="center">
+## Contact
 
-### 💡 "Qualidade não é um ato, é um hábito." - Aristóteles
+- 🌐 Portfolio: [pedrodevx.netlify.app](https://pedrodevx.netlify.app/)
+- 💼 LinkedIn: [pedro-augusto-ssyss](https://linkedin.com/in/pedro-augusto-ssyss)
+- 📧 Email: pedroaugusto.sys@gmail.com
 
-![Profile Views](https://komarev.com/ghpvc/?username=PedroAugusto-sys&color=06b6d4&style=for-the-badge&label=Visualizações+do+Perfil)
+---
+---
 
-⭐️ **Desenvolvido com dedicação por [Pedro Augusto](https://github.com/PedroAugusto-sys)**
+# Pedro Augusto Santos Andrade
 
-</div>
+**Engenheiro de Automação de QA Júnior / SDET** • Goiânia, Brasil • Disponível para Remoto & Contrato
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-pedrodevx.netlify.app-06B6D4?style=flat-square)](https://pedrodevx.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pedro--augusto--ssyss-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/pedro-augusto-ssyss)
+[![Email](https://img.shields.io/badge/Email-pedroaugusto.sys%40gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:pedroaugusto.sys@gmail.com)
+
+---
+
+## Sobre Mim
+
+Engenheiro de Automação de QA Júnior e SDET com experiência prática em frameworks de automação de testes, testes de API e pipelines CI/CD. Habilidade em construir suítes de testes robustas com alta cobertura e integrá-las em fluxos de entrega contínua. Experiência em desenvolvimento full-stack e operações de service desk, trazendo uma visão holística da qualidade de software.
+
+Atualmente buscando oportunidades remotas ou por contrato para aplicar práticas modernas de automação de QA e contribuir para a entrega de software de alta qualidade.
+
+---
+
+## Stack Técnica
+
+**Automação de QA & Testes**  
+C# • Playwright • Cypress • Selenium • SpecFlow (BDD) • NUnit • xUnit • Postman • Testes de API REST
+
+**Programação & Frameworks**  
+JavaScript • TypeScript • React • .NET • SQL  
+_Experiência acadêmica:_ Java • Python
+
+**Ferramentas & Práticas**  
+Git • CI/CD • Testes Unitários • Testes de Integração • Testes End-to-End • Test-Driven Development
+
+---
+
+## Experiência Profissional
+
+**Analista de QA**  
+_Escolar Manager_ • 2023 – 2026  
+Projetou e executou suítes de testes automatizados para uma plataforma de gestão escolar, colaborou com equipes de desenvolvimento em padrões de qualidade e estabeleceu melhores práticas de testes.
+
+**Analista de Suporte de TI / Service Desk**  
+_SmartHint by Magalu Cloud_  
+Forneceu suporte técnico, resolveu incidentes escalados e contribuiu para o monitoramento de confiabilidade de sistemas.
+
+---
+
+## Formação
+
+**Bacharelado em Engenharia de Software**  
+SENAI FATESG • Concluído em 2025
+
+---
+
+## Projetos em Destaque
+
+**[taskflow](https://github.com/PedroAugusto-sys/taskflow)**  
+Aplicação full-stack de gerenciamento de tarefas construída com .NET e React. Inclui cobertura de testes abrangente: testes unitários, testes de integração e testes E2E Playwright com automação CI. Alcançou 99% de cobertura de código.
+
+**[qa_automacao](https://github.com/PedroAugusto-sys/qa_automacao)**  
+Hub de automação baseado em Electron com framework BDD SpecFlow/Playwright. Demonstra organização de testes, relatórios e padrões de testes reutilizáveis.
+
+**[portfolio-pedro](https://pedrodevx.netlify.app/)**  
+Site de portfólio pessoal apresentando projetos e habilidades. Construído com React e tecnologias web modernas.
+
+**[gf_art_prjct](https://github.com/PedroAugusto-sys/gf_art_prjct)**  
+Projeto criativo explorando experiências web interativas.
+
+---
+
+## Contato
+
+- 🌐 Portfolio: [pedrodevx.netlify.app](https://pedrodevx.netlify.app/)
+- 💼 LinkedIn: [pedro-augusto-ssyss](https://linkedin.com/in/pedro-augusto-ssyss)
+- 📧 Email: pedroaugusto.sys@gmail.com
