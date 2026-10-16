@@ -4,7 +4,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-pedrodevx.netlify.app-06B6D4?style=flat-square)](https://pedrodevx.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pedro--augusto--ssyss-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/pedro-augusto-ssyss)
-[![Email](https://img.shields.io/badge/Email-pedroaugusto.sys%40gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:pedroaugusto.sys@gmail.com)
+[![Email](https://img.shields.io/badge/Email-pedroaugusto.sys%40gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:pedroaugustooandrade@gmail.com)
 
 ---
 
@@ -69,7 +69,7 @@ Creative project exploring interactive web experiences.
 
 - 🌐 Portfolio: [pedrodevx.netlify.app](https://pedrodevx.netlify.app/)
 - 💼 LinkedIn: [pedro-augusto-ssyss](https://linkedin.com/in/pedro-augusto-ssyss)
-- 📧 Email: pedroaugusto.sys@gmail.com
+- 📧 Email: pedroaugustooandrade@gmail.com
 
 ---
 ---
@@ -80,7 +80,7 @@ Creative project exploring interactive web experiences.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-pedrodevx.netlify.app-06B6D4?style=flat-square)](https://pedrodevx.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pedro--augusto--ssyss-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/pedro-augusto-ssyss)
-[![Email](https://img.shields.io/badge/Email-pedroaugusto.sys%40gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:pedroaugusto.sys@gmail.com)
+[![Email](https://img.shields.io/badge/Email-pedroaugusto.sys%40gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:pedroaugustooandrade@gmail.com)
 
 ---
 
@@ -145,4 +145,4 @@ Projeto criativo explorando experiências web interativas.
 
 - 🌐 Portfolio: [pedrodevx.netlify.app](https://pedrodevx.netlify.app/)
 - 💼 LinkedIn: [pedro-augusto-ssyss](https://linkedin.com/in/pedro-augusto-ssyss)
-- 📧 Email: pedroaugusto.sys@gmail.com
+- 📧 Email: pedroaugustooandrade@gmail.com
