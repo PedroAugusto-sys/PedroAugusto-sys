@@ -11,7 +11,7 @@ Playwright · Cypress · Selenium · C# / .NET · BDD / SpecFlow · React · Pos
 ## Featured Projects
 
 - **[taskflow](https://github.com/PedroAugusto-sys/taskflow)** — task management system
-- **[qa-automation-showcase](https://github.com/PedroAugusto-sys/qa_automacao)** — test automation samples
+- **[qa-automation-showcase](https://github.com/PedroAugusto-sys/qa-automation-showcase)** — C# SpecFlow/Playwright BDD test framework + Electron test runner hub
 - **[ticket-flowZ](https://github.com/PedroAugusto-sys/ticket-flowZ)** — ticket tracking app
 - **[financas](https://github.com/PedroAugusto-sys/financas)** — personal finance manager
 - **[EaDuck](https://github.com/PedroAugusto-sys/Eaduck)** — educational platform
